@@ -52,7 +52,7 @@ def main():
 			runListener(host)
 		
 	
-	print '\n\nInfogen AL - https://www.infogen.al/\n'
+	print '\n\n'
 
     
     
