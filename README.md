@@ -1,5 +1,5 @@
 # WordSteal
-
+ 
 This script will create a POC that will steal NTML hashes from a remote computer. Do not use this for illegal purposes.The author does not keep responsibility for any illegal action you do.
 
 Microsoft Word has the ability to include images from remote locations.This is an undocumented feature but was found
